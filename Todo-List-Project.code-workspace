@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../npiservicios"
+		},
+		{
+			"path": "../cupertino2025"
+		}
+	],
+	"settings": {}
+}
